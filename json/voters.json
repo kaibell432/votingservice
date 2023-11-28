@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Jeff",
+        "ballot" : null
+    },
+    {
+        "id": 2,
+        "name": "Albert",
+        "ballot": {
+            "candidate": "Obama"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Nic",
+        "ballot": {
+            "candidate": "Lincoln"
+        }
+    }
+]
